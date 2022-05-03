@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/glowna"
+        android:icon="@drawable/ic_home"
+        android:title="@string/strona_g_wna" />
+    <item
+        android:id="@+id/menu"
+        android:icon="@drawable/ic_menu"
+        android:title="@string/menu" />
+    <item
+        android:id="@+id/galeria"
+        android:icon="@drawable/ic_gallery"
+        android:title="@string/galeria" />
+    <item
+        android:id="@+id/kontakt"
+        android:icon="@drawable/ic_contact"
+        android:title="@string/kontakt" />
+</menu>
